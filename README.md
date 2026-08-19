@@ -95,8 +95,8 @@ Quero utilizar este GitHub não apenas como portfólio, mas também como um regi
 
 * 📚 **[Projetos acadêmicos em C](#)** — Exercícios, trabalhos e projetos desenvolvidos durante a graduação.
 * 🧠 **[Lógica & resolução de problemas](#)** — Exercícios utilizados para praticar raciocínio lógico, algoritmos e fundamentos de programação.
-* 🌐 **[Desenvolvimento Web](#)** — Projetos e estudos relacionados a HTML, CSS, JavaScript e desenvolvimento de páginas Web.
-* 🧪 **[Projetos pessoais](https://github.com/Pechebiloski/Projeto-Rocketseat)** — Experimentos e aplicações desenvolvidos por iniciativa própria para reforçar conhecimentos.
+* 🌐 **[Desenvolvimento Web](https://github.com/Pechebiloski/Projeto-Rocketseat)** — Projetos e estudos relacionados a HTML, CSS, JavaScript e desenvolvimento de páginas Web.
+* 🧪 **[Projetos pessoais](#)** — Experimentos e aplicações desenvolvidos por iniciativa própria para reforçar conhecimentos.
 * 📖 **[Estudos & anotações](#)** — Resumos, anotações e materiais produzidos durante meus estudos.
 
 ---
